@@ -1,0 +1,5 @@
+include tests/*.ipynb
+include README.md
+include LICENSE
+include Makefile
+include twopopy/_version.py
